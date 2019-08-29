@@ -1,6 +1,6 @@
 /**
- * Author: Chris Bourke
- * Date: 2016/11/02
+ * Author: Joshua Biven
+ * Date: 2019/08/29
  *
  * A simple hello world program in C
  *
@@ -11,6 +11,8 @@
 int main(int argc, char **argv) {
 
   printf("Hello World!\n");
+  printf("Joshua Biven \n");
+  printf("Undeclared \n");
 
   return 0;
 }
